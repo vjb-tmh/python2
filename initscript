@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+
+echo "# python code" >> README.md
+git init
+git add README.md
+git commit -m "update"
+git remote add origin git@github.com:vjb-tmh/python.git
+git push -u origin master

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<listings>
+   <listing>
+		<price>101000</price>
+		<description>Rerum ullam reiciendis nesciunt. Cumque eum distinctio possimus rerum temporibus natus vero.</description>
+		<status>For Sale</status>
+		<broker>
+			<code>8F8Q9</code>
+			<phone>1-280-398-2410x852</phone>
+			<name>Laura Sanchez &amp; Associates</name>
+		</broker>
+		<agent>
+			<code>34F7V1</code>
+			<phone>640.988.4537</phone>
+			<name>Scott Park</name>
+		</agent>
+		<address>
+			<zip>97730-1042</zip>
+			<city>Randolphmouth</city>
+			<street>1907 William Union</street>
+			<state>VA</state>
+		</address>
+		<mls_number>99</mls_number>
+		<type>Apartment</type>
+	</listing>
+	<listing>
+		<price>153000</price>
+		<description>Occaecati illum tempore in ab maxime quo praesentium. Quam nesciunt animi quaerat.
+Cumque minus a dicta iure sequi vel. Quidem laboriosam architecto consequatur dolorum eum repudiandae facilis. A quae quam dicta recusandae. Voluptate voluptatibus quisquam a saepe.
+Quaerat deleniti commodi dolorum quae quasi ullam nam. Accusantium quasi saepe voluptate. Delectus ad quia quibusdam incidunt explicabo. Aliquid quasi eaque quidem exercitationem rerum ipsa temporibus.</description>
+		<status>For Sale</status>
+		<broker>
+			<code>48258888R7C4</code>
+			<phone>04210861693</phone>
+			<name>Dunlap Realty</name>
+		</broker>
+		<agent>
+			<code>82733618I3</code>
+			<phone>(777)892-7828x60009</phone>
+			<name>William Mcmahon</name>
+		</agent>
+		<address>
+			<zip>28572-4026</zip>
+			<city>East Sethberg</city>
+			<street>57683 Donald Spring</street>
+			<state>TX</state>
+		</address>
+		<mls_number>233</mls_number>
+		<type>Apartment</type>
+	</listing>
+</listings>
